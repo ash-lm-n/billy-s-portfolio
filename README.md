@@ -5,5 +5,5 @@
 - Smooth scrolling in each section.
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
-
-![image](https://user-images.githubusercontent.com/68348803/218189841-55111d25-8a24-44d1-a101-3fe03aeb759b.png)
+- 
+![image](https://user-images.githubusercontent.com/68348803/218190314-81bcc4a1-4d9c-49b3-a4c2-a134167c1e6d.png)
